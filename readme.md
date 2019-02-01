@@ -1,5 +1,5 @@
 # OMCRS Documentation
-Version 2.0.0
+Version 1.0.0
 
 This repository contains the technical documentation for the OMCRS web and desktop application.
 
